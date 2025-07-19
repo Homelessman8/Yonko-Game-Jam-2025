@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b92da65610ba1fd4fbce7e9f5411ad41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259641
+  packageName: Simple Modular Dungeon
+  packageVersion: 2.0
+  assetPath: Assets/Simple Modular Dungeon/Components/Materials/Mats/Floor003.mat
+  uploadId: 708867
